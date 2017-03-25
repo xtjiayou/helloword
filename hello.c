@@ -1,1 +1,2 @@
-hello word,github!
+printf(“helloword”)；
+what is wrong?
